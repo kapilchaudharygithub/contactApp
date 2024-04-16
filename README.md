@@ -1,6 +1,9 @@
 # Contact App
 
 This project is a simple contact list application developed using React and Redux, allowing users to manage their contacts by adding, editing, and deleting them.
+## Links
+-[Live Link](https://contact-list-kapilchaudhary.netlify.app/)
+-[Github Link](https://github.com/kapilchaudharygithub/contactApp)
 
 ## Project Structure
 
